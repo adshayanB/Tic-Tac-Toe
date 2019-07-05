@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A Tic Tac Toe game on Android Studios
+A Tic Tac Toe created on Android Studios
