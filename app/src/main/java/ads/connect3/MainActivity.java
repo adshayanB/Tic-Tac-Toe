@@ -68,9 +68,9 @@ public class MainActivity extends AppCompatActivity {
                     boolean gameOver = true;
                     for (int counterState : gameState) {
 
-                        if (counterState == 2) {
+                        if (counterState == 2)
                             gameOver = false;
-                        }
+
                     }
                     if (gameOver) {
                         TextView winnerMessage = findViewById(R.id.winnerMessage);
